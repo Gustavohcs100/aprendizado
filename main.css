@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://static.siteconfiavel.com.br/og-images/matrix-com.png);
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: rgba( 0, 0, 0, 0.5);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    margin-right: 10px;
+}
+
+
+.list-item {
+    margin-bottom: 24px;
+    font-size: 24px;
+
+}
+input{
+    height: 32px;
+    background-color: black;
+    color: white;
+    border-color: rgb(51, 153, 51);
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 8px;
+
+}
+
+button {
+    font-size: 16px;
+    padding: 16px;
+    border-width: 0;
+    border-radius: 4px;
+    color: rgb(13, 11, 11);
+    font-weight: bold;
+    font-family: monospace;
+
+}
+img {
+    padding-left: 1300px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
